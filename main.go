@@ -1,4 +1,3 @@
-  GNU nano 8.4                                                                                                               main.go                                                                                                                         
 package main
 
 import (
